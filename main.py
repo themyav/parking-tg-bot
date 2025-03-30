@@ -1,4 +1,3 @@
-# main.py (updated)
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ConversationHandler
 from handlers.contact import ContactHandler
 from handlers.booking import BookingHandler
