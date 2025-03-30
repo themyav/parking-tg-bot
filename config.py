@@ -1,0 +1,2 @@
+TOKEN = "7824070233:AAG0p1dQg7HK3JC3NnkdKm83Xka7OVCLe-A"
+BOT_USERNAME = "@ParkingControllerBot"
