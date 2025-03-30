@@ -1,4 +1,3 @@
-# handlers/contact.py (updated)
 from telegram import Update
 from telegram.ext import ContextTypes, ConversationHandler
 from states import State
