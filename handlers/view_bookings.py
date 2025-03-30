@@ -1,4 +1,3 @@
-# handlers/view_bookings.py (updated)
 from telegram import Update
 from telegram.ext import ContextTypes
 from states import State
